@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /StromLive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/values-pa/values.xml",

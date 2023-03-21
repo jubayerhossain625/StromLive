@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /StromLive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/values-hu/values.xml",

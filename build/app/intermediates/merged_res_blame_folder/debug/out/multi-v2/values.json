@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/mdjubayerhossain/Downloads/workplace /StromLive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/mdjubayerhossain/Downloads/workplace /StromLive/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "121,126",
+                        "startColumns": "4,4",
+                        "startOffsets": "8627,8935",
+                        "endLines": "125,128",
+                        "endColumns": "12,12",
+                        "endOffsets": "8930,9099"
+                    }
+                },
                 {
                     "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/values/values.xml",
                     "from": {
@@ -20,25 +39,6 @@
                         "endLines": "13,14,15,16,17,18,19,20,102,103,104,105,106,107,108,109,111,112,113,114,115,116,117,118,119,275,294",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "746,826,916,1006,1086,1167,1247,1327,6323,6504,6629,6736,6916,7039,7155,7258,7613,7718,7899,8024,8199,8347,8410,8472,8551,14691,15108"
-                    }
-                },
-                {
-                    "source": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "121,126",
-                        "startColumns": "4,4",
-                        "startOffsets": "8627,8935",
-                        "endLines": "125,128",
-                        "endColumns": "12,12",
-                        "endOffsets": "8930,9099"
                     }
                 },
                 {

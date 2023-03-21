@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/geolocator_android/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/geolocator_android/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/stromlive/build/geolocator_android/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mdjubayerhossain/.gradle/caches/transforms-3/f568b3e0e4b3738147ed358a145ad2d6/transformed/jetified-play-services-base-18.1.0/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
